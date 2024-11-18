@@ -1,5 +1,15 @@
 ## Olá! Eu sou Wadrian de Sousa Vaz👋
 
+<div> 
+<a href="https://github.com/Wadriandesousa">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wadriandesousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadriandesousa&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+<div> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60em" height="70em"/>     
+</div>
+
 ##
  
 <div> 
